@@ -1,5 +1,6 @@
 # Ceaser-cipher
 Background 
+
  A Caesar Cipher, also known as a shift cipher, is likely the simplest encryption technique in existence. This is a type of substitution cipher where each letter in the plaintext is shifted by some fixed number to transform that letter into another.  For example, if the plaintext were “here comes santa claus” and a Caesar Cipher was 
 applied to this with a shift value of 3 then the resulting ciphertext would be “khuh frphv 
 vdqwd fodxv”. 
